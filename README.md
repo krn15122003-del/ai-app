@@ -1,2 +1,3 @@
-# ai-app
-AI backend with env-based configuration
+git remote add origin https://github.com/USERNAME/REPO.git
+git branch -M main
+git push -u origin main
